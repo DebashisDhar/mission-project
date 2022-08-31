@@ -45,3 +45,39 @@ p {
     padding: 10px 40px;
     border-radius: 5px;
 }
+
+#middle {
+    text-align: center;
+    color: rgb(18, 18, 34);
+}
+
+#color {
+    color: salmon;
+}
+
+.experience-item {
+    box-shadow: 2px 2px 4px rgb(188, 188, 188);
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 50px;
+}
+
+.experience-item img {
+    width: 50%;
+
+}
+
+#one {
+    background-color: azure;
+}
+
+#two {
+    background-color: bisque;
+}
+
+#three {
+    background-color: aquamarine;
+}
